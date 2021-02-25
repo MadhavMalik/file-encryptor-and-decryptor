@@ -2,8 +2,8 @@
 ### Developed by Madhav Malik
 
 ## Packages 
-cryptography <br />
-tkinter
+Cryptography <br />
+Tkinter
 
 
 ## Installation
