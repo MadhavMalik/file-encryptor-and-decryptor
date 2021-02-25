@@ -14,3 +14,6 @@ Run main.py <br />
 Choose file <br />
 Enter password for encryption/decryption <br />
 Choose Encrypt or Decrypt
+
+### Checkout an example 
+https://youtu.be/wfDaLGo3axM
