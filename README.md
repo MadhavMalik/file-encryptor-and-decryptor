@@ -7,7 +7,9 @@ Tkinter
 
 
 ## Installation
-pip install -r requirements.txt
+pip install -r requirements.txt <br />
+or <br />
+pip3 install -r requirements.txt --user 
 
 ## How to use :
 Run main.py <br />
