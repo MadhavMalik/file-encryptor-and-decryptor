@@ -56,7 +56,7 @@ passwd = StringVar()
 
 submit_para_en = partial(encrypt_file, passwd)
 submit_para_de = partial(decrypt_file, passwd)
-credit = Label(window,text = "Dveloped by Madhav Malik", bg="black",height=4,  fg = "white", font =("",15))
+credit = Label(window,text = "Developed by Madhav Malik", bg="black",height=4,  fg = "white", font =("",15))
 label_file_explorer = Label(window, text="File Name : ", width=100, height=2, fg="white", bg="black",font =("",20))
 pass_label = Label(window, text="Password for encryption/decryption : ", width=100, height=4, fg="white", bg="black",font =("",20))
 temp_label = Label(window, text="", height=3, bg="black")
